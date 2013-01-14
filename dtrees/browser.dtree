@@ -300,10 +300,20 @@
 "opera mobi";operamobile;B;;
 "version/10";operamobile10;C;operamobile;browser="Opera Mobile",version=10,os=
 "version/11";operamobile11;C;operamobile;browser="Opera Mobile",version=11,os=
-"opera8";opera8;W;;browser=Opera,version=8000,os=
-"opera9";opera9;W;;browser=Opera,version=9000,os=
-"opera10";opera10;W;;browser=Opera,version=10000,os=
-"opera11";opera11;W;;browser=Opera,version=11000,os=
+"presto";operaw;B;windows;
+"presto";operam;B;macintosh;
+"presto";operal;B;linux;
+"version/10";opera10l;C;operal;browser=Opera,version=10000,os=Linux
+"version/10";opera10w;C;operaw;browser=Opera,version=10000,os=Windows
+"version/10";opera10m;C;operam;browser=Opera,version=10000,os=Macintosh
+"version/11";opera11l;C;operal;browser=Opera,version=11000,os=Linux
+"version/11";opera11w;C;operaw;browser=Opera,version=11000,os=Windows
+"version/11";opera11m;C;operam;browser=Opera,version=11000,os=Macintosh
+"version/12";opera12l;C;operal;browser=Opera,version=12000,os=Linux
+"version/12";opera12w;C;operaw;browser=Opera,version=12000,os=Windows
+"version/12";opera12m;C;operam;browser=Opera,version=12000,os=Macintosh
+"opera/8";opera8;W;;browser=Opera,version=8000,os=
+"opera/9";opera9;W;;browser=Opera,version=9000,os=
 "opera";opera;N;;browser=Opera,version=0,os=
 
 # safari
